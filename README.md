@@ -50,6 +50,10 @@ PostgreSQL 15+
 - Реализация сложных запросов через представления
 - Разработка хранимых процедур с параметрами
 
+<img width="1280" height="547" alt="image" src="https://github.com/user-attachments/assets/18316f6e-b66e-4b3b-8fdb-681609e75c01" />
+<img width="1280" height="510" alt="image" src="https://github.com/user-attachments/assets/5a37e269-752b-4b27-8a0d-82e184e3d1fa" />
+
+
 # Лабораторная работа 4. Анализ производительности БД
 
 ## Цель работы
