@@ -85,6 +85,17 @@ PostgreSQL 15+
 - Оптимизация запросов путем создания индексов
 - Сравнение производительности до и после оптимизации
 
+
+<img width="1280" height="400" alt="image" src="https://github.com/user-attachments/assets/993d5ba6-8533-4fe0-85de-c70f7876692e" />
+
+<img width="1280" height="367" alt="image" src="https://github.com/user-attachments/assets/cdc90eb7-991a-4ad8-b2b9-2efb98ab7ccc" />
+
+<img width="1280" height="286" alt="image" src="https://github.com/user-attachments/assets/8ce676fa-9bff-4d6f-a526-83d5fbe4fb36" />
+
+
+
+
+
 # Лабораторная работа 5. Триггеры и аудит
 
 ## Цель работы
@@ -97,3 +108,11 @@ PostgreSQL 15+
 - Реализация каскадного удаления данных
 - Создание таблицы аудита изменений
 - Разработка триггеров для отслеживания операций INSERT, UPDATE, DELETE
+
+<img width="1280" height="286" alt="image" src="https://github.com/user-attachments/assets/6abc1363-9eaa-4883-9027-8550204a252e" />
+
+<img width="1280" height="756" alt="image" src="https://github.com/user-attachments/assets/9f772a7a-b400-4577-bd56-355ce4a3b007" />
+
+<img width="1280" height="738" alt="image" src="https://github.com/user-attachments/assets/a1488919-dfe1-4007-ba06-f333c54a26d7" />
+
+
