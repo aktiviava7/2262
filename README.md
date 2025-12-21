@@ -9,6 +9,8 @@
 Er-Диаграмма
 <img width="685" height="241" alt="image" src="https://github.com/user-attachments/assets/a110358e-a721-473c-bb20-b1cc37b773e5" />
 
+
+
 # Лабораторная работа 2. Инсталляция БД и SQL
 
 ## Цель работы
@@ -37,6 +39,18 @@ PostgreSQL 15+
 - отсутствуют частичные зависимости (2НФ)
 - отсутствуют транзитивные зависимости (3НФ)
 
+<img width="1280" height="571" alt="image" src="https://github.com/user-attachments/assets/d05ef9e3-e5d0-4867-bba0-0ee3ca928eee" />
+
+<img width="1280" height="430" alt="image" src="https://github.com/user-attachments/assets/bfb32da7-8618-456d-968e-4a73ed3b7e68" />
+
+<img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/8a4eea68-ce23-429b-8c68-248286cc50b9" />
+
+<img width="1280" height="494" alt="image" src="https://github.com/user-attachments/assets/6a4aa0b3-d514-4cdf-ac39-60865e5e28da" />
+
+
+
+
+
  # Лабораторная работа 3. Представления и процедуры
 
 ## Цель работы
@@ -50,8 +64,11 @@ PostgreSQL 15+
 - Реализация сложных запросов через представления
 - Разработка хранимых процедур с параметрами
 
-<img width="1280" height="547" alt="image" src="https://github.com/user-attachments/assets/18316f6e-b66e-4b3b-8fdb-681609e75c01" />
-<img width="1280" height="510" alt="image" src="https://github.com/user-attachments/assets/5a37e269-752b-4b27-8a0d-82e184e3d1fa" />
+<img width="1280" height="696" alt="image" src="https://github.com/user-attachments/assets/aa2f4a2a-e4d0-49d6-a019-1713506b709b" />
+
+<img width="1280" height="611" alt="image" src="https://github.com/user-attachments/assets/335193aa-4d0e-405c-8f95-30cdc3e8175b" />
+
+
 
 
 # Лабораторная работа 4. Анализ производительности БД
